@@ -11,19 +11,19 @@
                           <div class="form-group row">
                               <label class="col-md-4">Loan Amount</label>
                               <div class="col-md-8">
-                                <input type="number" class="form-control" id="loan_amt" placeholder="col-form-label">
+                                <input type="number" class="form-control" id="loan_amt" placeholder="Enter Loan Amount">
                               </div>
                           </div>
                           <div class="form-group row">
                               <label class="col-md-4 col-form-label">Interest Rate (%)</label>
                               <div class="col-md-8">
-                                <input type="number" class="form-control" id="interest_rate" placeholder="col-form-label">
+                                <input type="number" class="form-control" id="interest_rate" placeholder="Interest Rate (%)">
                               </div>
                           </div>
                           <div class="form-group row">
                               <label class="col-md-4 col-form-label">Repayment Amount</label>
                               <div class="col-md-8">
-                                <input type="number" class="form-control" id="repay" placeholder="col-form-label">
+                                <input type="number" class="form-control" id="repay" placeholder="Repayment Amount">
                               </div>
                           </div>
                           <div class="col text-center">
